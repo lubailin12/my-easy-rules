@@ -1,10 +1,10 @@
 # use-of-easy-rules
 
-½«[easy-rules](https://github.com/j-easy/easy-rules)´ÓmavenÏîÄ¿¸Ä³ÉÆÕÍ¨µÄJavaÏîÄ¿£¬¿ÉÒÔÓÃeclipseÖ±½ÓÔËĞĞ¡£
+å°†[easy-rules](https://github.com/j-easy/easy-rules)ä»mavené¡¹ç›®æ”¹æˆæ™®é€šçš„Javaé¡¹ç›®ï¼Œå¯ä»¥ç”¨eclipseç›´æ¥è¿è¡Œã€‚
 
-+ libs£ºeasy-rulesÒÀÀµµÄjar°ü
-+ src£ºÔ´´úÂë
-  + org£ºeasy-rulesµÄÔ´Âë
-  + javaÎÄ¼ş£ºÊ¹ÓÃeasy-rulesµÄĞ¡Àı×Ó
++ libsï¼šeasy-rulesä¾èµ–çš„jaråŒ…ï¼ˆåœ¨è¿è¡Œå‰éœ€è¦å°†è¿™äº›åŒ…åŠ åˆ°build-pathä¸­ï¼‰
++ srcï¼šæºä»£ç 
+  + orgï¼šeasy-rulesçš„æºç 
+  + javaæ–‡ä»¶ï¼šä½¿ç”¨easy-rulesçš„å°ä¾‹å­
 
 
