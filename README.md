@@ -5,6 +5,6 @@
 + libs：easy-rules依赖的jar包（在运行前需要将这些包加到build-path中）
 + src：源代码
   + org：easy-rules的源码
-  + java文件：使用easy-rules的小例子
+  + java文件：使用easy-rules的小例子（App.java主函数入口）
 
 
